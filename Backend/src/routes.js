@@ -8,13 +8,13 @@ const authMiddleware = require('./app/middleware/auth');
 /**
  * 
  *  Rotas para:
- *  Criar User,
- *  Alterar e-mail,
- *  Alterar Senha,
- *  Alterar Nome,
- *  Consultar Usuário por Id,
- *  Consultar Usuário por e-mail,
- *  Consultar Usuário por nome
+ *  Criar User, [Done]
+ *  Alterar e-mail, []
+ *  Alterar Senha, []
+ *  Alterar Nome, []
+ *  Consultar Usuário por Id, []
+ *  Consultar Usuário por e-mail, []
+ *  Consultar Usuário por nome, []
  */
 
 
