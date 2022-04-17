@@ -1,0 +1,12 @@
+{
+  "name": "cookr",
+  "displayName": "cookr",
+  "expo": {
+    "name": "cookr",
+    "slug": "cookr",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
